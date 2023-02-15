@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612356434032",
+    "firebase_url": "https://kotlinchato-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kotlinchato",
+    "storage_bucket": "kotlinchato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612356434032:android:cf214b0c8f001339892cb5",
+        "android_client_info": {
+          "package_name": "com.example.chatoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612356434032-hl7j8621h7r72f2stl3se2ogum731ss3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB71xKUvQT_59m-RW29ty9l3ZhICe3ZHcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612356434032-hl7j8621h7r72f2stl3se2ogum731ss3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
